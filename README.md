@@ -1,6 +1,6 @@
 - # Sobre mim
-- Olá meu nome é @AluraEstudante
-- Meu email de contato é estudante.alura@gmail.com
+- Olá meu nome é **@Emily**
+-  :+1: Meu email de contato é emily.kaylany.santos@escola.pr.gov.br
 - 👀 Eu estou interessada em aprendera programarnovas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de javaScript e scrapt
 
